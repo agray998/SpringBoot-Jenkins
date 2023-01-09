@@ -152,7 +152,7 @@
     		<repository>
       			<id>mycompany-repository</id>
       			<name>MyCompany Repository</name>
-      			<url>http://deploy-serve:8081/repository/maven-releases</url>
+      			<url>http://deploy-serve:8082/repository/maven-releases</url>
     		</repository>
   	</distributionManagement>
 </project>
