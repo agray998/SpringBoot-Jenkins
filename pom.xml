@@ -152,7 +152,7 @@
     		<repository>
       			<id>mycompany-repository</id>
       			<name>MyCompany Repository</name>
-      			<url>http://deploy-serve:8083/nexus/content/repositories/releases</url>
+      			<url>http://deploy-serve:8082/nexus/content/repositories/releases</url>
     		</repository>
   	</distributionManagement>
 </project>
