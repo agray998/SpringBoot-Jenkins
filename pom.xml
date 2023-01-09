@@ -148,5 +148,11 @@
 
 		</plugins>
 	</build>
-
+        <distributionManagement>
+    		<repository>
+      			<id>mycompany-repository</id>
+      			<name>MyCompany Repository</name>
+      			<url>scp://deploy-serve/repository</url>
+    		</repository>
+  	</distributionManagement>
 </project>
